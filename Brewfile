@@ -1,5 +1,6 @@
 tap "homebrew/cask-fonts"
 brew "exa"
+brew "fd"
 brew "fish"
 brew "ghq"
 brew "git"
